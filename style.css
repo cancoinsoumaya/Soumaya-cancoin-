@@ -29,6 +29,13 @@ header{
     padding: 80px;
     
 }
+.login{
+    display:block;
+    border: 1px solid black;
+    padding: 200px;
+    text-align: center;
+    justify-content:space-evenly
+}
 img{
     width: 250px;
 }
@@ -49,4 +56,14 @@ li{
 footer{
     border: 1px solid black;
     padding: 50px;
+}
+.formulaire{
+    border: 1px solid black;
+    text-align: center;
+    justify-items: center;
+    margin: 15px;
+    padding: 40px;
+}
+h2{
+    text-align: center;
 }
