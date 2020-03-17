@@ -20,8 +20,14 @@ header{
     display: flex;
     justify-content: center;
 }
-div{
+.candidat{
     display: flex;
+}
+.candidatchoisis{
+    border: 1px solid black;
+    display: flex;
+    padding: 80px;
+    
 }
 img{
     width: 250px;
